@@ -289,7 +289,7 @@ Year,Datetime,Stage,Stadium,City,Home Team Name,Home Team Goals,Away Team Goals,
 1978,"10 Jun 1978 - 16:45 ",Group 2,Arroyito - Estadio Dr. Lisandro de la Torre,"Rosario ",Poland,3,1,Mexico," ",22651,1,0,NAMDAR Jafar (IRN),ERIKSSON Ulf (SWE),CORVER Charles (NED),278,2431,POL,MEX
 1978,"10 Jun 1978 - 16:45 ",Group 2,Estadio Olímpico Chateau Carreras,"Cordoba ",Germany FR,0,0,Tunisia," ",30667,0,0,OROZCO GUERRERO Cesar (PER),COMESANA Miguel (ARG),PESTARINO Luis (ARG),278,2352,FRG,TUN
 1978,"10 Jun 1978 - 19:15 ",Group 1,El Monumental - Estadio Monumental Antonio Vespuci,"Buenos Aires ",Italy,1,0,Argentina," ",71712,0,0,KLEIN Abraham (ISR),GONZALEZ ARCHUNDIA Alfonso (MEX),RION Francis (BEL),278,2200,ITA,ARG
-1978,"11 Jun 1978 - 13:45 ",Group 3,Estadio Jos� María Minella,"Mar Del Plata ",Brazil,1,0,Austria," ",35221,1,0,WURTZ Robert (FRA),BOUZO Farouk (SYR),GEBREYESUS DIFUE Tesfaye (ERI),278,2215,BRA,AUT
+1978,"11 Jun 1978 - 13:45 ",Group 3,Estadio José María Minella,"Mar Del Plata ",Brazil,1,0,Austria," ",35221,1,0,WURTZ Robert (FRA),BOUZO Farouk (SYR),GEBREYESUS DIFUE Tesfaye (ERI),278,2215,BRA,AUT
 1978,"11 Jun 1978 - 13:45 ",Group 3,Jose Amalfitani,"Buenos Aires ",Spain,1,0,Sweden," ",42132,0,0,BIWERSI Ferdinand (GER),ITHURRALDE Arturo Andres (ARG),PROKOP Adolf (GDR),278,2337,ESP,SWE
 1978,"11 Jun 1978 - 16:45 ",Group 4,Estadio Olímpico Chateau Carreras,"Cordoba ",Peru,4,1,Iran," ",21262,3,1,JARGUZ Alojzy (POL),MAKSIMOVIC Dusan (SCG),WINSEMANN Werner (CAN),278,2405,PER,IRN
 1978,"11 Jun 1978 - 16:45 ",Group 4,San Martin,"Mendoza ",Scotland,3,2,Netherlands," ",35130,1,1,LINEMAYR Erich (AUT),PALOTAI Karoly (HUN),SEOUDI Hedi (TUN),278,2395,SCO,NED
@@ -308,9 +308,9 @@ Year,Datetime,Stage,Stadium,City,Home Team Name,Home Team Goals,Away Team Goals,
 1978,"24 Jun 1978 - 15:00 ",Match for third place,El Monumental - Estadio Monumental Antonio Vespuci,"Buenos Aires ",Brazil,2,1,Italy," ",69659,0,1,KLEIN Abraham (ISR),GONZALEZ ARCHUNDIA Alfonso (MEX),PALOTAI Karoly (HUN),280,2247,BRA,ITA
 1978,"25 Jun 1978 - 15:00 ",Final,El Monumental - Estadio Monumental Antonio Vespuci,"Buenos Aires ",Argentina,3,1,Netherlands,"Argentina win after extra time ",71483,0,0,GONELLA Sergio (ITA),BARRETO RUIZ Ramon (URU),LINEMAYR Erich (AUT),639,2198,ARG,NED
 1982,"13 Jun 1982 - 20:00 ",Group 3,Camp Nou,"Barcelona ",Argentina,0,1,Belgium," ",95000,0,0,CHRISTOV Vojtech (TCH),PALOTAI Karoly (HUN),JARGUZ Alojzy (POL),293,749,ARG,BEL
-1982,"14 Jun 1982 - 17:15 ",Group 1,Estadio Municipal de Bala�dos,"Vigo ",Italy,0,0,Poland," ",33000,0,0,VAUTROT Michel (FRA),PROKOP Adolf (GDR),RAINEA Nicolae (ROU),293,995,ITA,POL
+1982,"14 Jun 1982 - 17:15 ",Group 1,Estadio Municipal de Balados,"Vigo ",Italy,0,0,Poland," ",33000,0,0,VAUTROT Michel (FRA),PROKOP Adolf (GDR),RAINEA Nicolae (ROU),293,995,ITA,POL
 1982,"14 Jun 1982 - 21:00 ",Group 6,Ramon Sanchez Pizjuan,"Seville ",Brazil,2,1,Soviet Union," ",68000,0,1,LAMO CASTILLO Augusto (ESP),SANCHEZ ARMINIO Victoriano (ESP),GARCIA CARRION Jose L. (ESP),293,791,BRA,URS
-1982,"15 Jun 1982 - 17:15 ",Group 1,Riazor,"La Coru�A ",Peru,0,0,Cameroon," ",11000,0,0,WOEHRER Franz (AUT),RAINEA Nicolae (ROU),PROKOP Adolf (GDR),293,833,PER,CMR
+1982,"15 Jun 1982 - 17:15 ",Group 1,Riazor,"La CoruñA ",Peru,0,0,Cameroon," ",11000,0,0,WOEHRER Franz (AUT),RAINEA Nicolae (ROU),PROKOP Adolf (GDR),293,833,PER,CMR
 1982,"15 Jun 1982 - 21:00 ",Group 3,Nuevo Estadio,"Elche ",Hungary,10,1,El Salvador," ",23000,3,0,AL DOY Ebrahim (BHR),CORVER Charles (NED),LUND-SORENSEN Henning (DEN),293,896,HUN,SLV
 1982,"15 Jun 1982 - 21:00 ",Group 6,La Rosaleda,"Malaga ",Scotland,5,2,New Zealand," ",36000,3,0,SOCHA David (USA),CHAN Thomson Tam Sun (HKG),EL GHOUL Yusef Mohamed (LBY),293,1051,SCO,NZL
 1982,"16 Jun 1982 - 17:15 ",Group 2,El Molinon,"Gijon ",Germany FR,1,2,Algeria," ",42000,0,0,LABO REVOREDO Enrique (PER),ARISTIZABAL MURCIA Gilberto (COL),CASARIN Paolo (ITA),293,741,FRG,ALG
@@ -319,7 +319,7 @@ Year,Datetime,Stage,Stadium,City,Home Team Name,Home Team Goals,Away Team Goals,
 1982,"17 Jun 1982 - 17:15 ",Group 2,Carlos Tartiere,"Oviedo ",Chile,0,1,Austria," ",22500,0,1,CARDELLINO DE SAN VICENTE Juan (URU),CASARIN Paolo (ITA),ARISTIZABAL MURCIA Gilberto (COL),293,764,CHI,AUT
 1982,"17 Jun 1982 - 17:45 ",Group 4,Jose Zorrilla,"Valladolid ",Czechoslovakia,1,1,Kuwait," ",25000,1,0,DWOMOH Benjamin (GHA),MENDEZ MOLINA Romulo (GUA),VALENTINE Robert (SCO),293,1012,TCH,KUW
 1982,"17 Jun 1982 - 21:00 ",Group 5,La Romareda,"Zaragoza ",Yugoslavia,0,0,Northern Ireland," ",25000,0,0,FREDRIKSSON Erik (SWE),GALLER Bruno (SUI),PALOTAI Karoly (HUN),293,1044,YUG,NIR
-1982,"18 Jun 1982 - 17:15 ",Group 1,Estadio Municipal de Bala�dos,"Vigo ",Italy,1,1,Peru," ",25000,1,0,ESCHWEILER Walter (GER),RUBIO VAZQUEZ Mario (MEX),KLEIN Abraham (ISR),293,994,ITA,PER
+1982,"18 Jun 1982 - 17:15 ",Group 1,Estadio Municipal de Balados,"Vigo ",Italy,1,1,Peru," ",25000,1,0,ESCHWEILER Walter (GER),RUBIO VAZQUEZ Mario (MEX),KLEIN Abraham (ISR),293,994,ITA,PER
 1982,"18 Jun 1982 - 21:00 ",Group 3,Jose Rico Perez,"Alicante ",Argentina,4,1,Hungary," ",32093,2,0,LACARNE Belaid (ALG),VAUTROT Michel (FRA),RAINEA Nicolae (ROU),293,752,ARG,HUN
 1982,"18 Jun 1982 - 21:00 ",Group 6,Benito Villamarin,"Seville ",Brazil,4,1,Scotland," ",47379,1,1,SILES Jesus Paulino (CRC),CHAN Thomson Tam Sun (HKG),PROKOP Adolf (GDR),293,790,BRA,SCO
 1982,"19 Jun 1982 - 19:15 ",Group 1,Riazor,"La CoruñA ",Poland,0,0,Cameroon," ",19000,0,0,PONNET Alexis (BEL),ESCHWEILER Walter (GER),RUBIO VAZQUEZ Mario (MEX),293,834,POL,CMR
@@ -334,7 +334,7 @@ Year,Datetime,Stage,Stadium,City,Home Team Name,Home Team Goals,Away Team Goals,
 1982,"22 Jun 1982 - 17:15 ",Group 1,Riazor,"La CoruñA ",Poland,5,1,Peru," ",25000,0,0,RUBIO VAZQUEZ Mario (MEX),SORIANO ALADREN Emilio (ESP),SANCHEZ ARMINIO Victoriano (ESP),293,1055,POL,PER
 1982,"22 Jun 1982 - 21:00 ",Group 3,Nuevo Estadio,"Elche ",Belgium,1,1,Hungary," ",37000,0,1,WHITE Clive (ENG),ESCHWEILER Walter (GER),LACARNE Belaid (ALG),293,779,BEL,HUN
 1982,"22 Jun 1982 - 21:00 ",Group 6,La Rosaleda,"Malaga ",Soviet Union,2,2,Scotland," ",45000,0,1,RAINEA Nicolae (ROU),JARGUZ Alojzy (POL),PONNET Alexis (BEL),293,1071,URS,SCO
-1982,"23 Jun 1982 - 17:15 ",Group 1,Estadio Municipal de Bala�dos,"Vigo ",Italy,1,1,Cameroon," ",20000,0,0,DOTCHEV Bogdan (BUL),SORIANO ALADREN Emilio (ESP),SANCHEZ ARMINIO Victoriano (ESP),293,828,ITA,CMR
+1982,"23 Jun 1982 - 17:15 ",Group 1,Estadio Municipal de Balados,"Vigo ",Italy,1,1,Cameroon," ",20000,0,0,DOTCHEV Bogdan (BUL),SORIANO ALADREN Emilio (ESP),SANCHEZ ARMINIO Victoriano (ESP),293,828,ITA,CMR
 1982,"23 Jun 1982 - 21:00 ",Group 3,Jose Rico Perez,"Alicante ",Argentina,2,0,El Salvador," ",32500,1,0,BARRANCOS Luis (BOL),LAMO CASTILLO Augusto (ESP),LACARNE Belaid (ALG),293,751,ARG,SLV
 1982,"23 Jun 1982 - 21:00 ",Group 6,Benito Villamarin,"Seville ",Brazil,4,0,New Zealand," ",43000,2,0,MATOVINOVIC Damir (CRO),KLEIN Abraham (ISR),CORVER Charles (NED),293,789,BRA,NZL
 1982,"24 Jun 1982 - 17:15 ",Group 2,Carlos Tartiere,"Oviedo ",Algeria,3,2,Chile," ",16000,3,0,MENDEZ MOLINA Romulo (GUA),FREDRIKSSON Erik (SWE),COELHO Arnaldo (BRA),293,740,ALG,CHI
@@ -521,14 +521,14 @@ Year,Datetime,Stage,Stadium,City,Home Team Name,Home Team Goals,Away Team Goals,
 1998,"11 Jun 1998 - 21:00 ",Group B,Stade Municipal,"Toulouse ",Cameroon,1,1,Austria," ",33500,0,0,GONZALEZ CHAVEZ Epifanio (PAR),GALVAN Celestino (PAR),SALINAS Reynaldo (HON),1014,8727,CMR,AUT
 1998,"12 Jun 1998 - 14:30 ",Group D,La Mosson,"Montpellier ",Paraguay,0,0,Bulgaria," ",29800,0,0,ALZEID Abdulrahman (KSA),SALIE Achmat (RSA),GHADANFARI Hussain (KUW),1014,8728,PAR,BUL
 1998,"12 Jun 1998 - 17:30 ",Group C,Stade Felix Bollaert,"Lens ",Saudi Arabia,0,1,Denmark," ",38100,0,0,CASTRILLI Javier (ARG),ROSSI Claudio (ARG),DIAZ GALVEZ Jorge (CHI),1014,8729,KSA,DEN
-1998,"12 Jun 1998 - 21:00 ",Group C,Stade V�lodrome,"Marseilles ",France,3,0,South Africa," ",55000,1,0,REZENDE Marcio (BRA),PINTO Arnaldo (BRA),GONZALES Merere (TRI),1014,8730,FRA,RSA
+1998,"12 Jun 1998 - 21:00 ",Group C,Stade Vélodrome,"Marseilles ",France,3,0,South Africa," ",55000,1,0,REZENDE Marcio (BRA),PINTO Arnaldo (BRA),GONZALES Merere (TRI),1014,8730,FRA,RSA
 1998,"13 Jun 1998 - 14:30 ",Group D,La Beaujoire,"Nantes ",Spain,2,3,Nigeria," ",35500,1,1,BAHARMAST Esse (USA),TORRES ZUNIGA Luis (CRC),DUPANOV Yuri (BLR),1014,8731,ESP,NGA
 1998,"13 Jun 1998 - 17:30 ",Group E,Stade de Gerland,"Lyon ",Korea Republic,1,3,Mexico," ",39100,1,0,BENKO Gunter (AUT),FRED Lencie (VAN),SCHNEIDER Erich (GER),1014,8732,KOR,MEX
 1998,"13 Jun 1998 - 21:00 ",Group E,Stade de France,"Saint-Denis ",Netherlands,0,0,Belgium," ",77000,0,0,COLLINA Pierluigi (ITA),MAZZEI Gennaro (ITA),ZAMMIT Emanuel (MLT),1014,8733,NED,BEL
 1998,"14 Jun 1998 - 14:30 ",Group H,Stade Municipal,"Toulouse ",Argentina,1,0,Japan," ",33500,1,0,VAN DER ENDE Mario (NED),VAN DEN BROECK Marc (BEL),FOLEY Eddie (IRL),1014,8734,ARG,JPN
 1998,"14 Jun 1998 - 17:30 ",Group F,Stade Geoffroy Guichard,"Saint-Etienne ",Yugoslavia,1,0,Iran," ",30600,0,0,TEJADA NORIEGA Alberto (PER),POWELL Owen (JAM),POCIEGIEL Jacek (POL),1014,8735,YUG,IRN
 1998,"14 Jun 1998 - 21:00 ",Group H,Stade Felix Bollaert,"Lens ",Jamaica,1,3,Croatia," ",38100,1,1,MELO PEREIRA Vitor (POR),GRIGORESCU Nicolae (ROU),POUDEVIGNE Jacques (FRA),1014,8736,JAM,CRO
-1998,"15 Jun 1998 - 14:30 ",Group G,Stade V�lodrome,"Marseilles ",England,2,0,Tunisia," ",55000,1,0,OKADA Masayoshi (JPN),JEON Young Hyun (KOR),DANTE Dramane (MLI),1014,8740,ENG,TUN
+1998,"15 Jun 1998 - 14:30 ",Group G,Stade Vélodrome,"Marseilles ",England,2,0,Tunisia," ",55000,1,0,OKADA Masayoshi (JPN),JEON Young Hyun (KOR),DANTE Dramane (MLI),1014,8740,ENG,TUN
 1998,"15 Jun 1998 - 17:30 ",Group G,Stade de Gerland,"Lyon ",Romania,1,0,Colombia," ",39100,1,0,LIM KEE CHONG An Yan (MRI),AL MUSAWI Mohamed (OMA),ABDUL HAMID Halim (MAS),1014,8739,ROU,COL
 1998,"15 Jun 1998 - 21:00 ",Group F,Parc des Princes,"Paris ",Germany,2,0,USA," ",45500,1,0,BELQOLA Said (MAR),MANSRI Mohamed (TUN),NILSSON Mikael (SWE),1014,8738,GER,USA
 1998,"16 Jun 1998 - 17:30 ",Group A,Stade du Parc Lescure,"Bordeaux ",Scotland,1,1,Norway," ",31800,0,0,VAGNER Laszlo (HUN),AMLER Evzen (CZE),RAUSIS Laurent (SUI),1014,8741,SCO,NOR
@@ -541,7 +541,7 @@ Year,Datetime,Stage,Stadium,City,Home Team Name,Home Team Goals,Away Team Goals,
 1998,"19 Jun 1998 - 21:00 ",Group D,Stade Geoffroy Guichard,"Saint-Etienne ",Spain,0,0,Paraguay," ",30600,0,0,McLEOD Ian (RSA),SOLDATOS Aristidis Chris (RSA),POWELL Owen (JAM),1014,8748,ESP,PAR
 1998,"20 Jun 1998 - 14:30 ",Group H,La Beaujoire,"Nantes ",Japan,0,1,Croatia," ",35500,0,0,RAMDHAN Ramesh (TRI),GONZALES Merere (TRI),SALIE Achmat (RSA),1014,8751,JPN,CRO
 1998,"20 Jun 1998 - 17:30 ",Group E,Stade du Parc Lescure,"Bordeaux ",Belgium,2,2,Mexico," ",31800,1,0,DALLAS Hugh (SCO),FOLEY Eddie (IRL),AL MUSAWI Mohamed (OMA),1014,8750,BEL,MEX
-1998,"20 Jun 1998 - 21:00 ",Group E,Stade V�lodrome,"Marseilles ",Netherlands,5,0,Korea Republic," ",55000,2,0,WOJCIK Ryszard (POL),POCIEGIEL Jacek (POL),DUPANOV Yuri (BLR),1014,8749,NED,KOR
+1998,"20 Jun 1998 - 21:00 ",Group E,Stade Vélodrome,"Marseilles ",Netherlands,5,0,Korea Republic," ",55000,2,0,WOJCIK Ryszard (POL),POCIEGIEL Jacek (POL),DUPANOV Yuri (BLR),1014,8749,NED,KOR
 1998,"21 Jun 1998 - 14:30 ",Group F,Stade Felix Bollaert,"Lens ",Germany,2,2,Yugoslavia," ",38100,0,1,NIELSEN Kim Milton (DEN),ZAMMIT Emanuel (MLT),VAN DEN BROECK Marc (BEL),1014,8753,GER,YUG
 1998,"21 Jun 1998 - 17:30 ",Group H,Parc des Princes,"Paris ",Argentina,5,0,Jamaica," ",45500,1,0,PEDERSEN Rune (NOR),NILSSON Mikael (SWE),MAZZEI Gennaro (ITA),1014,8752,ARG,JAM
 1998,"21 Jun 1998 - 21:00 ",Group F,Stade de Gerland,"Lyon ",USA,1,2,Iran," ",39100,0,1,MEIER Urs (SUI),RAUSIS Laurent (SUI),GRIGORESCU Nicolae (ROU),1014,8754,USA,IRN
@@ -786,7 +786,7 @@ Year,Datetime,Stage,Stadium,City,Home Team Name,Home Team Goals,Away Team Goals,
 2014,"16 Jun 2014 - 16:00 ",Group F,Arena da Baixada,"Curitiba ",IR Iran,0,0,Nigeria," ",39081,0,0,VERA Carlos (ECU),LESCANO Christian (ECU),ROMERO Byron (ECU),255931,300186505,IRN,NGA
 2014,"16 Jun 2014 - 19:00 ",Group G,Estadio das Dunas,"Natal ",Ghana,1,2,USA," ",39760,0,1,ERIKSSON Jonas (SWE),KLASENIUS Mathias (SWE),WARNMARK Daniel (SWE),255931,300186512,GHA,USA
 2014,"17 Jun 2014 - 13:00 ",Group H,Estadio Mineirao,"Belo Horizonte ",Belgium,2,1,Algeria," ",56800,0,1,RODRIGUEZ Marco (MEX),TORRENTERA Marvin (MEX),QUINTERO Marcos (MEX),255931,300186479,BEL,ALG
-2014,"17 Jun 2014 - 16:00 ",Group A,Estadio Castelao,"Fortaleza ",Brazil,0,0,Mexico," ",60342,0,0,C�neyt �AKIR (TUR),DURAN Bahattin (TUR),ONGUN Tarik (TUR),255931,300186509,BRA,MEX
+2014,"17 Jun 2014 - 16:00 ",Group A,Estadio Castelao,"Fortaleza ",Brazil,0,0,Mexico," ",60342,0,0,Cneyt AKIR (TUR),DURAN Bahattin (TUR),ONGUN Tarik (TUR),255931,300186509,BRA,MEX
 2014,"17 Jun 2014 - 18:00 ",Group H,Arena Pantanal,"Cuiaba ",Russia,1,1,Korea Republic," ",37603,0,0,PITANA Nestor (ARG),MAIDANA Hernan (ARG),BELATTI Juan Pablo (ARG),255931,300186499,RUS,KOR
 2014,"18 Jun 2014 - 13:00 ",Group B,Estadio Beira-Rio,"Porto Alegre ",Australia,2,3,Netherlands," ",42877,1,1,HAIMOUDI Djamel (ALG),ACHIK Redouane (MAR),ETCHIALI Abdelhak (ALG),255931,300186478,AUS,NED
 2014,"18 Jun 2014 - 16:00 ",Group B,Estadio do Maracana,"Rio De Janeiro ",Spain,0,2,Chile," ",74101,0,2,GEIGER Mark (USA),HURD Sean (USA),FLETCHER Joe (CAN),255931,300186498,ESP,CHI
@@ -818,7 +818,7 @@ Year,Datetime,Stage,Stadium,City,Home Team Name,Home Team Goals,Away Team Goals,
 2014,"26 Jun 2014 - 13:00 ",Group G,Arena Pernambuco,"Recife ",USA,0,1,Germany," ",41876,0,0,Ravshan IRMATOV (UZB),RASULOV Abduxamidullo (UZB),KOCHKAROV Bakhadyr (KGZ),255931,300186469,USA,GER
 2014,"26 Jun 2014 - 13:00 ",Group G,Estadio Nacional,"Brasilia ",Portugal,2,1,Ghana," ",67540,1,0,SHUKRALLA Nawaf (BHR),TULEFAT Yaser (BHR),SALEH Ebrahim (BHR),255931,300186476,POR,GHA
 2014,"26 Jun 2014 - 17:00 ",Group H,Arena de Sao Paulo,"Sao Paulo ",Korea Republic,0,1,Belgium," ",61397,0,0,Ben WILLIAMS (AUS),CREAM Matthew (AUS),ANAZ Hakan (AUS),255931,300186480,KOR,BEL
-2014,"26 Jun 2014 - 17:00 ",Group H,Arena da Baixada,"Curitiba ",Algeria,1,1,Russia," ",39311,0,1,C�neyt �AKIR (TUR),DURAN Bahattin (TUR),ONGUN Tarik (TUR),255931,300186506,ALG,RUS
+2014,"26 Jun 2014 - 17:00 ",Group H,Arena da Baixada,"Curitiba ",Algeria,1,1,Russia," ",39311,0,1,Cneyt AKIR (TUR),DURAN Bahattin (TUR),ONGUN Tarik (TUR),255931,300186506,ALG,RUS
 2014,"28 Jun 2014 - 13:00 ",Round of 16,Estadio Mineirao,"Belo Horizonte ",Brazil,1,1,Chile,"Brazil win on penalties (3 - 2) ",57714,0,0,WEBB Howard (ENG),MULLARKEY Michael (ENG),Darren CANN (ENG),255951,300186487,BRA,CHI
 2014,"28 Jun 2014 - 17:00 ",Round of 16,Estadio do Maracana,"Rio De Janeiro ",Colombia,2,0,Uruguay," ",73804,1,0,Bjorn KUIPERS (NED),Sander VAN ROEKEL (NED),Erwin ZEINSTRA (NED),255951,300186491,COL,URU
 2014,"30 Jun 2014 - 13:00 ",Round of 16,Estadio Nacional,"Brasilia ",France,2,0,Nigeria," ",67882,0,0,GEIGER Mark (USA),HURD Sean (USA),FLETCHER Joe (CAN),255951,300186462,FRA,NGA
@@ -828,7 +828,7 @@ Year,Datetime,Stage,Stadium,City,Home Team Name,Home Team Goals,Away Team Goals,
 2014,"08 Jul 2014 - 17:00 ",Semi-finals,Estadio Mineirao,"Belo Horizonte ",Brazil,1,7,Germany," ",58141,0,5,RODRIGUEZ Marco (MEX),TORRENTERA Marvin (MEX),QUINTERO Marcos (MEX),255955,300186474,BRA,GER
 2014,"12 Jul 2014 - 17:00 ",Play-off for third place,Estadio Nacional,"Brasilia ",Brazil,0,3,Netherlands," ",68034,0,2,HAIMOUDI Djamel (ALG),ACHIK Redouane (MAR),ETCHIALI Abdelhak (ALG),255957,300186502,BRA,NED
 2014,"13 Jul 2014 - 16:00 ",Final,Estadio do Maracana,"Rio De Janeiro ",Germany,1,0,Argentina,"Germany win after extra time ",74738,0,0,Nicola RIZZOLI (ITA),Renato FAVERANI (ITA),Andrea STEFANI (ITA),255959,300186501,GER,ARG
-2014,"09 Jul 2014 - 17:00 ",Semi-finals,Arena de Sao Paulo,"Sao Paulo ",Netherlands,0,0,Argentina,"Argentina win on penalties (2 - 4) ",63267,0,0,C�neyt �AKIR (TUR),DURAN Bahattin (TUR),ONGUN Tarik (TUR),255955,300186490,NED,ARG
+2014,"09 Jul 2014 - 17:00 ",Semi-finals,Arena de Sao Paulo,"Sao Paulo ",Netherlands,0,0,Argentina,"Argentina win on penalties (2 - 4) ",63267,0,0,Cneyt AKIR (TUR),DURAN Bahattin (TUR),ONGUN Tarik (TUR),255955,300186490,NED,ARG
 2014,"05 Jul 2014 - 17:00 ",Quarter-finals,Arena Fonte Nova,"Salvador ",Netherlands,0,0,Costa Rica,"Netherlands win on penalties (4 - 3) ",51179,0,0,Ravshan IRMATOV (UZB),RASULOV Abduxamidullo (UZB),KOCHKAROV Bakhadyr (KGZ),255953,300186488,NED,CRC
 2014,"05 Jul 2014 - 13:00 ",Quarter-finals,Estadio Nacional,"Brasilia ",Argentina,1,0,Belgium," ",68551,1,0,Nicola RIZZOLI (ITA),Renato FAVERANI (ITA),Andrea STEFANI (ITA),255953,300186504,ARG,BEL
 2014,"29 Jun 2014 - 13:00 ",Round of 16,Estadio Castelao,"Fortaleza ",Netherlands,2,1,Mexico," ",58817,0,0,PROENCA Pedro (POR),MIRANDA Bertino (POR),TRIGO Jose (POR),255951,300186508,NED,MEX
@@ -848,7 +848,7 @@ Year,Datetime,Stage,Stadium,City,Home Team Name,Home Team Goals,Away Team Goals,
 2014,"05 Jul 2014 - 13:00 ",Quarter-finals,Estadio Nacional,"Brasilia ",Argentina,1,0,Belgium," ",68551,1,0,Nicola RIZZOLI (ITA),Renato FAVERANI (ITA),Andrea STEFANI (ITA),255953,300186504,ARG,BEL
 2014,"05 Jul 2014 - 17:00 ",Quarter-finals,Arena Fonte Nova,"Salvador ",Netherlands,0,0,Costa Rica,"Netherlands win on penalties (4 - 3) ",51179,0,0,Ravshan IRMATOV (UZB),RASULOV Abduxamidullo (UZB),KOCHKAROV Bakhadyr (KGZ),255953,300186488,NED,CRC
 2014,"08 Jul 2014 - 17:00 ",Semi-finals,Estadio Mineirao,"Belo Horizonte ",Brazil,1,7,Germany," ",58141,0,5,RODRIGUEZ Marco (MEX),TORRENTERA Marvin (MEX),QUINTERO Marcos (MEX),255955,300186474,BRA,GER
-2014,"09 Jul 2014 - 17:00 ",Semi-finals,Arena de Sao Paulo,"Sao Paulo ",Netherlands,0,0,Argentina,"Argentina win on penalties (2 - 4) ",63267,0,0,C�neyt �AKIR (TUR),DURAN Bahattin (TUR),ONGUN Tarik (TUR),255955,300186490,NED,ARG
+2014,"09 Jul 2014 - 17:00 ",Semi-finals,Arena de Sao Paulo,"Sao Paulo ",Netherlands,0,0,Argentina,"Argentina win on penalties (2 - 4) ",63267,0,0,Cneyt AKIR (TUR),DURAN Bahattin (TUR),ONGUN Tarik (TUR),255955,300186490,NED,ARG
 2014,"12 Jul 2014 - 17:00 ",Play-off for third place,Estadio Nacional,"Brasilia ",Brazil,0,3,Netherlands," ",68034,0,2,HAIMOUDI Djamel (ALG),ACHIK Redouane (MAR),ETCHIALI Abdelhak (ALG),255957,300186502,BRA,NED
 2014,"13 Jul 2014 - 16:00 ",Final,Estadio do Maracana,"Rio De Janeiro ",Germany,1,0,Argentina,"Germany win after extra time ",74738,0,0,Nicola RIZZOLI (ITA),Renato FAVERANI (ITA),Andrea STEFANI (ITA),255959,300186501,GER,ARG
 ,,,,,,,,,,,,,,,,,,,
